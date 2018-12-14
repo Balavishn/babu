@@ -1,4 +1,4 @@
+b=int(input("input"))
 a=int(input())
-b=int(input())
-c=pow(a,b)
-print(c)
+u=pow(a,b)
+print("output",u)
