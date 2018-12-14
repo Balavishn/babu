@@ -1,4 +1,4 @@
 b=int(input("input"))
 a=int(input())
-u=pow(a,b)
+u=pow(b,a)
 print("output",u)
