@@ -1,8 +1,8 @@
 n=int(input("input:"))
-for i in range(2,num):
-     if (num % i) == 0:
-        print(num,"is not a prime number")
+for i in range(2,n):
+     if (n % i) == 0:
+        print("Yes")
         break
      else:
-       print(num,"is a prime number")
+       print("NO")
        
